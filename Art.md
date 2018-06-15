@@ -35,7 +35,11 @@ Jack: Das Brett trägt nur jemanden und dieser Jemand sollst du sein, Geliebte!
 Jack lässt sich langsam ins Wasser gleiten und lässt sich dessen Kälte fast nicht anmerken.  
 Rose: Oh Jack...  
 Jack: Es wird mir gut gehen, Liebes, schlaf nur!
-
+Rose legt sich auf die Seite und schläft ein.  Jack erstarrt nach einigen Sekunden und sein Kopf fällt auf das Floss. Rose wacht auf.  
+Rose: Jack! Nein!  
+Rose nimmt den Kopf des leblosen Jack in beide Hände und küsst ihn auf die Stirn. Weinend lässt sie Jack in die Tiefen des Meeres sinken und bricht lautlos weinend zusammen.  
+Das klägliche Flötenspiel klingt ab und die Musik endet.  
+Ende Szene Nummer 3;
 
 Szene Nummer x;  
 Stimme aus dem Off:  
