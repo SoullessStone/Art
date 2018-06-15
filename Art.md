@@ -1,4 +1,16 @@
 Cut (Das müssen wir immer wieder einbauen, dann können wie Szenen verhauen und nochmals wiederholen).  
+
+Szene 1;  
+Vorhang verdeckt Bühnenbild.  
+Regisseur betritt Bühne.  
+Regisseur: Es freut mich ausserordentlich, Sie alle zur Aufführung des ART Bantiger zu begrüssen. Ursprünglich wollten wir nur ein Schauspiel aufführen, doch dann hat uns das Schicksal einen Wink gegeben! Mit Gustav Olsson ist ein neuer Mitarbeiter zu uns gestossen, der neben der Informatik das Flötenspiel zu seiner grossen Passion zählt und sich bereit erklärt hat, unsere Vorstellung musikalisch zu untermalen. Er studierte ursprünglich an der Königlichen Musikhochschule in Stockholm, bevor er an die renomierte Universität für Musik und darstellende Künste in Wien wechselte und dort seinen Magister der Künste erlangte. Nach dem Abschluss lehnte er ein Angebot der Wiener Staatsoper ab, um in Zürich an der ETH sein Informatikstudium zu beginnen und der Musik privat treu zu bleiben. Begrüssen Sie mit mir, Gustav Olsson!  
+Regisseur klatscht und Publikum hilft mit.  
+Gustav Olsson kommt auf die Bühne und verbeugt sich dramatisch.  
+Gustav: Vielen Dank!
+My heart will go on fängt an zu spielen. Gustav verpasst seinen Einsatz und winkt aufgeregt ins Off, um den Tontechniker dazu zu verleiten, das Lied erneut zu starten.  
+Der zweite Einsatz gelingt.  
+Gustav flötet mehr schlecht als recht, hinter ihm geht der Vorhang auf und das Bühnenbild wird sichtbar. Es besteht aus einem Schiff, zuvorderst steht Rose, die Arme ausgebreitet und von hinten von Jack zärtlich umarmt. Dramatisch wird die junge unglückliche Liebe zelebriert während die Flötenmusik weitergeht.
+
 Szene Nummer x;  
 Stimme aus dem Off:  
 Die Titanic ist in den Mojito trinkenden Eisberg geknallt und geht unter, während dem die Titanic untergeht, spielt der Schwede immer noch das Lied mit der Flöte.   
