@@ -42,14 +42,13 @@ Das klägliche Flötenspiel klingt ab und die Musik endet. Gustav ist nicht mehr
 Ende Szene Nummer 3;
 
 Szene Nummer x;  
-Stimme aus dem Off:  
-Und so geschah es, dass die Titanic von einem betrunkenen Eisberg gerammt und eine junge Liebe auf ewig zerstört wurde...
+Sprecher betritt die Bühne, im Hintergrund ist der trinkende Eisberg zu sehen.  
+Sprecher: Und so geschah es, dass die Titanic von einem betrunkenen Eisberg gerammt und eine junge Liebe auf ewig zerstört wurde...
 Dann kommt plötzlich der Regisseur ins Bild und nimmt das klingelnde Telefon ab.   
 Dialog am Telefon:  
 Regisseur: „Nein, ich hatte keine Zeit einen Geigenspieler zu kriegen. Weisst du wie schwer es ist einen guten Geigenspieler zu finden? Verdammt, es war schon schwierig genug einen guten Flötenspieler zu kriegen. Wir mussten bis auf Schweden um einen zu finden und er verlangte auch noch einen Ständer um diese Flöte zu blasen. Was? Nein, nicht mir. Ja, ich weiss dass sie Geige gespielt haben, als sie unterging. Aber hey, es war ja niemand von den Zuschauer dabei. Also ich mach mir jetzt nicht den Stress mit einem Geigenspieler. Du mich auch, Arschloch. Bis dann."  
 Regisseur hängt das Telefon ab.  
 Eisberg: "Hey Regisseur, ich hab keinen Mojito mehr und das Eis hab ich auch gegessen. Ich brauch einen neuen Mojito, sonst bin ich ja kein Eisberg mehr!"  
-Woraufhin der Regisseur dem Eisberg wortlos einen neuen Drink gibt und die Szene nochmals ansagt, sie startet wieder mit:  
-Szene Nummer x;  
-Stimme aus dem Off:  
-Die Titanic ist in den Mojito trinkenden Eisberg geknallt und geht unter, ….  
+Woraufhin der Regisseur dem Eisberg wortlos einen neuen Drink gibt und genervt die Bühne verlässt. Zurück bleibt der trinkende Eisberg und der Sprecher.
+Sprecher: Und so geschah es, dass die Titanic von einem betrunkenen Eisberg gerammt und eine junge Liebe auf ewig zerstört wurde...  
+Sprecher verbeugt sich und verlässt die Bühne. Publikum klatscht (hoffentlich).
